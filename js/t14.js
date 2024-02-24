@@ -77,6 +77,7 @@ $gallery.droppable({
     }
 })
 /* Функція відновлення зображення в галереї */
+/* Функція відновлення зображення в галереї */
 function recycleImage( $item){
     $item.fadeOut(function(){
         $item
